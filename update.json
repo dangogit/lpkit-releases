@@ -1,19 +1,19 @@
 {
-  "version": "0.1.2",
-  "notes": "Version 0.1.2",
-  "pub_date": "2026-03-06T21:29:01Z",
+  "version": "0.1.3",
+  "notes": "Version 0.1.3",
+  "pub_date": "2026-03-07T14:00:21Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/dangogit/lpkit-releases/releases/download/app-v0.1.2/Landing Page Kit.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVU1Rb2VEL3o4UjQ0ZFlJc0R5czd6cnZaOXBJdlNUeG5kUC9iQ1o4bUZlV1Z6WmRva3RnUlFIYnJMT1Z0SENhNzBndVBOdm8zcllPYzNvUmJxV1VBRU1mN2o5V1ZERmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyODMxNzYwCWZpbGU6TGFuZGluZyBQYWdlIEtpdC5hcHAudGFyLmd6CnB4T1dlR2wvbTBCN2VNdzVVQitFTEF2b0tkMXphazFpNGFvaDd0d29CUThOaElwdUpIcHdqM0hJWDh3R3l5dnZmL1YzQWNkRzFnOUkwZVZHaTVBcUNRPT0K"
+      "url": "https://github.com/dangogit/lpkit-releases/releases/download/app-v0.1.3/Landing Page Kit.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVU1Rb2VEL3o4UndQbVdXK0gxOUlMOXRmZm5Pa1k3K0RWLzdQdnhsSDBKSCt4bk56SFlieUhXYW1MODJYcmRHa01lWFljSDNHWDNxa1VaNlh5TUFrd0lab2lkeTZUZ0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyODkxMTk4CWZpbGU6TGFuZGluZyBQYWdlIEtpdC5hcHAudGFyLmd6CmtkKy9DaWx6TlliaC9GUDNrQXIxZ2pKUS9Sc1B4blZ5N0w1anNEdUFrcnREK3dwblY0NHpnSFBCM1FrdnBQbVBlMm1UTDduTWRwampuZmRWb1RJRUNRPT0K"
     },
     "darwin-x86_64": {
-      "url": "https://github.com/dangogit/lpkit-releases/releases/download/app-v0.1.2/Landing Page Kit.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVU1Rb2VEL3o4UjQ0ZFlJc0R5czd6cnZaOXBJdlNUeG5kUC9iQ1o4bUZlV1Z6WmRva3RnUlFIYnJMT1Z0SENhNzBndVBOdm8zcllPYzNvUmJxV1VBRU1mN2o5V1ZERmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyODMxNzYwCWZpbGU6TGFuZGluZyBQYWdlIEtpdC5hcHAudGFyLmd6CnB4T1dlR2wvbTBCN2VNdzVVQitFTEF2b0tkMXphazFpNGFvaDd0d29CUThOaElwdUpIcHdqM0hJWDh3R3l5dnZmL1YzQWNkRzFnOUkwZVZHaTVBcUNRPT0K"
+      "url": "https://github.com/dangogit/lpkit-releases/releases/download/app-v0.1.3/Landing Page Kit.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVU1Rb2VEL3o4UndQbVdXK0gxOUlMOXRmZm5Pa1k3K0RWLzdQdnhsSDBKSCt4bk56SFlieUhXYW1MODJYcmRHa01lWFljSDNHWDNxa1VaNlh5TUFrd0lab2lkeTZUZ0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyODkxMTk4CWZpbGU6TGFuZGluZyBQYWdlIEtpdC5hcHAudGFyLmd6CmtkKy9DaWx6TlliaC9GUDNrQXIxZ2pKUS9Sc1B4blZ5N0w1anNEdUFrcnREK3dwblY0NHpnSFBCM1FrdnBQbVBlMm1UTDduTWRwampuZmRWb1RJRUNRPT0K"
     },
     "windows-x86_64": {
-      "url": "https://github.com/dangogit/lpkit-releases/releases/download/app-v0.1.2/Landing Page Kit_0.1.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVU1Rb2VEL3o4UjFLR0hKL3RxTTVpMEpmb3pjMXRGUStVUUlFVXhlUWNxTjFnUnZaQkR0aHRsUDBYQkFCSktyNnFYS2wyNzUzTk0wWDZHN016eHNYWTVKZVhYU0RTckFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyODMyNTA5CWZpbGU6TGFuZGluZyBQYWdlIEtpdF8wLjEuMF94NjQtc2V0dXAuZXhlCmN4OFRvK1lCL2RCMWJCQ2dPclcwTWUxYktJVmh1YndJSDNiVitGMWVoSHdzY1l0Tm1wV3ovU0l0eGtiVnNvS1c1UWxHR1R0NFZOMHJLaU5tNlQ2UkNnPT0K"
+      "url": "https://github.com/dangogit/lpkit-releases/releases/download/app-v0.1.3/Landing Page Kit_0.1.3_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVU1Rb2VEL3o4UnpZTTkrcUlMOHFFdktCT3B1SjkzaEcvQUtwbjZOZ01oc0RpekhCN3VOVFd2emF2cEN2YjBkdm40UzdYYzkrZUFCdzFTazErazdiL1lPTE5peXltS3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyODkxOTkzCWZpbGU6TGFuZGluZyBQYWdlIEtpdF8wLjEuM194NjQtc2V0dXAuZXhlCnNXZk5BSnBtTW1uM3FiUTNMd2txRnZBNU9oUlRtK1ovZFlsbUZLcUxrZGh1VGVwVXdqbmsyZjJNS0VqT3pORndxRGYwT1NCNy9KOGpLTklhMHRuUENRPT0K"
     }
   }
 }
